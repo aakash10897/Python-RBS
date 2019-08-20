@@ -1,0 +1,7 @@
+Data types
+1. Integer
+2. String
+3. Float 
+4. List 									Ordered sequencce of items< <numbers, ('a','b','c')>> access using positions
+5. Dictionary								{'a":2,'b':2} Unordered 
+6. Tuple 									Ordered  and immutable
