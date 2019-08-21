@@ -2,6 +2,22 @@ Data types
 1. Integer
 2. String
 3. Float 
-4. List 									Ordered sequencce of items< <numbers, ('a','b','c')>> access using positions
+4. List 									Ordered sequencce of items< <numbers, ['a','b','c']>> access using positions
 5. Dictionary								{'a":2,'b':2} Unordered 
-6. Tuple 									Ordered  and immutable
+6. Tuple 									Ordered  and immutable ()
+7. Sets                                     Unique values Unordered
+8. Boolean									True and False
+
+
+
+
+.format
+g.loop keywords           pass 
+
+
+4. funtions
+
+	def <function_name> 
+
+
+5. closures = functions inside a funciton
